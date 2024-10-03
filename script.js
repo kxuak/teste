@@ -11,5 +11,5 @@ function idade() {
         text="Você é maior de idade"
     }
 
-    document.getElementById("text_area").innerText= text
+    document.getElementById("text_area").innerText = text
 }
